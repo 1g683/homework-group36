@@ -1,0 +1,12 @@
+﻿  源.c
+E:\创新创业实践\代码仓（留存版）\project_21\project21\源.c(189,47): warning C4047: “函数”:“const char *”与“const char *[100]”的间接级别不同
+E:\创新创业实践\代码仓（留存版）\project_21\project21\源.c(189,44): warning C4024: “concatStringInts”: 形参和实参 1 的类型不同
+E:\创新创业实践\代码仓（留存版）\project_21\project21\源.c(199,41): warning C4047: “函数”:“const char *”与“const char *[100]”的间接级别不同
+E:\创新创业实践\代码仓（留存版）\project_21\project21\源.c(199,38): warning C4024: “concatStringInts”: 形参和实参 1 的类型不同
+E:\创新创业实践\代码仓（留存版）\project_21\project21\源.c(223,5): warning C4013: “strcpy”未定义；假设外部返回 int
+E:\创新创业实践\代码仓（留存版）\project_21\project21\源.c(244,36): warning C4047: “函数”:“const char *(*)[100]”与“char [4][100]”的间接级别不同
+E:\创新创业实践\代码仓（留存版）\project_21\project21\源.c(244,29): warning C4024: “sign_Verify_Batch”: 形参和实参 2 的类型不同
+E:\创新创业实践\代码仓（留存版）\project_21\project21\源.c(230,20): warning C4101: “end”: 未引用的局部变量
+E:\创新创业实践\代码仓（留存版）\project_21\project21\源.c(230,13): warning C4101: “start”: 未引用的局部变量
+E:\创新创业实践\代码仓（留存版）\project_21\project21\源.c(231,12): warning C4101: “cpu_time_used”: 未引用的局部变量
+  project21.vcxproj -> E:\创新创业实践\代码仓（留存版）\project_21\project21\x64\Debug\project21.exe
